@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Transducer",
+	"category" : "Transducers-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lookup"
+	],
+	"name" : "Replace",
+	"type" : "normal"
+}
