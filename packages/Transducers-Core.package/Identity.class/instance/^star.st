@@ -1,4 +1,0 @@
-*Transducers-composing
-* aFunction
-	
-	^aFunction

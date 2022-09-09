@@ -1,4 +1,0 @@
-*Transducers-accessing
-parameter
-
-	^parameter

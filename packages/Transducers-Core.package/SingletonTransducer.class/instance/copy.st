@@ -1,4 +1,0 @@
-*Transducers-copying
-copy
-	
-	^self

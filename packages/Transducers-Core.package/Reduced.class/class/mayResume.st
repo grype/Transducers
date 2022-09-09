@@ -1,4 +1,0 @@
-*Transducers-testing
-mayResume
-	
-	^false
