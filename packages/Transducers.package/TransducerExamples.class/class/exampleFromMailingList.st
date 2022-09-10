@@ -1,5 +1,6 @@
 examples
 exampleFromMailingList
+	<sampleInstance>
 	| scale sides count collect experiment samples coin flip |
 	scale := [ :x | (x * 2 + 1) floor ] map.
 	sides := #(heads tails) replace.
@@ -17,4 +18,5 @@ exampleFromMailingList
 	coin := sides <~ scale <~ Random new.
 	flip := Bag <~ count.
 	"flip coin =)"
-	samples := flip <~ coin
+	samples := flip <~ coin.
+	^ samples
